@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @unknownsupergm
-- 👀 I’m interested in coding, and making a lichess bot.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on idk.
-- 📫 How to reach me ...Don't.
+- 👀 I’m interested in a lot of stuff :)
+- 🌱 I specialize in Java.
+- 💞️ I’m looking to collaborate on Java projects.
+- 📫 How to reach me: https://lichess.org/@/j88q
 
 <!---
 unknownsupergm/unknownsupergm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
